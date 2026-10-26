@@ -25,10 +25,10 @@ A beginner-level Todo List application built using React.js and Vite to practice
 Beginner Level — My first React.js project, developed to understand state management, event handling, and dynamic UI rendering.
 
 ## Installation and Setup
-git clone <https://github.com/prasoonkushwahazohomail/react_mini_projects.git>
-cd todo_app
-npm install
-npm run dev
+- git clone <https://github.com/prasoonkushwahazohomail/react_mini_projects.git>
+- cd todo_app
+- npm install
+- npm run dev
 
 ## Current Limitations
 - Tasks are stored only in React state.
